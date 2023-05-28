@@ -242,7 +242,7 @@ p span {
 @media only screen and(max-width:400px) {
     .left{
         width: 30%;
-        left: 11.5rem;
+        left: 11rem;
     }
     
 }
