@@ -238,3 +238,11 @@ p span {
     padding: 10px;
   }
 }
+
+@media  screen and(max-width:400px) {
+    .left{
+        width: 30%;
+        left: 11.5rem;
+    }
+    
+}
