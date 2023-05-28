@@ -188,7 +188,7 @@ p span {
     display: flex;
     flex-direction: column;
     justify-content: center;
-    min-height: 90vh;
+    min-height: 80vh;
   }
 
   .fylo {
@@ -213,7 +213,7 @@ p span {
     border-radius: 50%;
     max-width: 0.7rem;
     max-height: 0.7rem;
-    margin-left: 7rem;
+    margin-left: 7.4rem;
   }
 
   .left {
