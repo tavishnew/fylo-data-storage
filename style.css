@@ -213,7 +213,7 @@ p span {
     border-radius: 50%;
     max-width: 0.7rem;
     max-height: 0.7rem;
-    margin-left: 10rem;
+    margin-left: 8rem;
   }
 
   .left {
@@ -221,7 +221,7 @@ p span {
     width: 30%;
     background-color: var(--PaleBlue);
     top: -10rem;
-    left: 11rem;
+    left: 9rem;
     height: auto;
     border-radius: 15px 15px 15px 15px;
   }
